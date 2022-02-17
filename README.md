@@ -1,4 +1,4 @@
-## Interest 👀
+## Interests 👀
 - Field: Text Mining, NLP(NER, RE), Knowledge Graph, Recommendation System
 - Data: Tabular & Text Data
 - Domain: healthcare, online/mobile games, UGC
