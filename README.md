@@ -6,7 +6,7 @@
 ## Work Experience 🤹‍♀️
 - (2021.09 - Now) BIGCARE SERVICES INC, AI Researcher (Intern)
   - [ML/DL] 딥러닝 기반 대사증후군 건강지수 예측모델 개발 및 Django REST API 제작/유지보수
-  - [RecSys] 종합건강검진 의사소견서를 활용한 지식그래프 기반 영양제 추천시스템 개발 (진행중)
+  - [Knowledge Graph, RecSys] 종합건강검진 의사소견서를 활용한 지식그래프 기반 영양제 추천시스템 개발 (진행중)
 
 ## Project Experience ⚡
 - [ML/DL] 빅콘테스트 데이터분석분야 챔피언리그 스포츠테크부문 - 타자의 OPS 예측 모델 개발 (최우수상)
