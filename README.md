@@ -17,3 +17,7 @@
 
 ## Research Experience :book:
 - [Corpus, Modeling] Coreference Resolution 해결을 위한 영문 문학 코퍼스 FantasyCoref 구축 및 SOTA 모델 fine-tuning
+
+## Education :sparkles:
+- 2022 원티드 프리온보딩 AI/ML 코스 1기 (수료)
+- 2022 구름 AI 기술 자연어 처리 전문가 양성 과정 4기 (예정)
